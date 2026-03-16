@@ -8,7 +8,7 @@ Team: **[Your Team Name]** | Affiliation: SVNIT Surat
 
 ## Method Overview
 
-We fine-tune **DehazeFormer-B** ([Song et al., TPAMI 2023](https://arxiv.org/abs/2208.11697)) on the NTIRE 2026 nighttime dehazing training set using a 4-phase curriculum:
+We fine-tune **DehazeFormer-B** ([Song et al., TPAMI 2023](https://arxiv.org/abs/2204.03883)) on the NTIRE 2026 nighttime dehazing training set using a 4-phase curriculum:
 
 | Phase | Description | Loss | Key Technique |
 |---|---|---|---|
