@@ -1,0 +1,23 @@
+# Weights
+weights/*.pth
+weights/*.pt
+
+# Data
+data/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Outputs
+results/
+submission*/
+
+# Env
+.env
+*.egg-info/
+dist/
+build/

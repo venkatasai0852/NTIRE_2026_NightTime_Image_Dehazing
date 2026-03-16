@@ -1,0 +1,11 @@
+torch>=1.13.0
+torchvision>=0.14.0
+einops
+timm==0.5.4
+lpips
+scikit-image
+pytorch-msssim
+opencv-python
+Pillow
+numpy
+tqdm
