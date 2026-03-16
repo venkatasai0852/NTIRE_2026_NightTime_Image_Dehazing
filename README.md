@@ -98,7 +98,7 @@ ntire2026-nighttime-dehazing/
 │   └── metrics.py    # batch_psnr, compute_metrics
 ├── configs/
 │   └── config.py     # All hyperparameters and paths
-└── weights/          # Place downloaded checkpoints here
+└── weights/        
 ```
 
 ---
